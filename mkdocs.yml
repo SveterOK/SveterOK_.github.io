@@ -1,0 +1,9 @@
+site_name: Как есть
+nav: 
+    - index.md
+    - 1.md
+theme:
+    name: material
+plugins:
+     - search
+    
